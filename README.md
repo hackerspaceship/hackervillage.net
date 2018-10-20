@@ -1,3 +1,3 @@
-# hackervillage.net
+# hackervillage
 
 hello, world
